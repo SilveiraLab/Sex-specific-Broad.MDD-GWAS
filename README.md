@@ -22,3 +22,7 @@ We identified 11 loci passing genome level significance (P < 5* 10−8) in femal
 Conclusions
 
 These findings provide evidence for sex-dependent genetic pathways for clinical depression as well as for health conditions comorbid with depression.
+
+
+This research has been conducted using the UK Biobank Resource under application number 41975.
+
