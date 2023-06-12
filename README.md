@@ -1,4 +1,5 @@
 Patrícia Pelufo Silveira, Irina Pokhvisneva, David M Howard, Michael J. Meaney
+
 A sex-specific genome-wide association study of depression phenotypes in UK Biobank. Mol Psychiatry (2023).
 
 https://doi.org/10.1038/s41380-023-01960-0
